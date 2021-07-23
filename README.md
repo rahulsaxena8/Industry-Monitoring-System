@@ -13,7 +13,11 @@ every 5 minutes.
 For this project I have created a python application. I have given it access to google sheets by creating a service account on google cloud platform
 and downloading a credential file from there which I am using in my program.
 To further bring my other skills to use I am running the program in Linux Virtual Machine.
+
 I have taken ideal range of temperature, humidity and pressure as follows-
+
 Temperature- 20-30 degree celsius
+
 Humidity-    45-55 percent
+
 Pressure-    12-18 pascals
